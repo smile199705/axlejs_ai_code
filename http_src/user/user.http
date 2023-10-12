@@ -1,0 +1,7 @@
+## 测试案例
+POST 127.0.0.1:3005/axle/user/test
+
+{
+  "name": "zhangsan",
+  "age": 12
+}
